@@ -23,7 +23,12 @@ The repository is partitioned into focused directories reflecting core academic 
 
 This collection provides textile engineering students and course instructors with direct access to curriculum blueprints and study materials required throughout the academic term.
 
-## 📑 Table of Contents
+|<img src= https://github.com/user-attachments/assets/dfc1be9b-90e7-4862-b934-8abcc0339f5f>|<img src= https://github.com/user-attachments/assets/67d0d949-19e9-4195-852b-368dcaf065a9>|<img src= https://github.com/user-attachments/assets/777c836d-d308-44b2-95dc-85d637f10bc4>|
+|:------ |:------| :----|
+|<img src= https://github.com/user-attachments/assets/8cd6a91d-0901-470f-b0a1-7db36b63f339>|<img src= https://github.com/user-attachments/assets/09889aa3-85fd-45e9-8f3e-0dfe8c91d38c>|<img src= https://github.com/user-attachments/assets/22f9661e-11a8-476d-83d7-02cf322812da>|
+|<img src= https://github.com/user-attachments/assets/1d3f8758-3508-4244-8793-e23240c412b8>|<img src= https://github.com/user-attachments/assets/918cd547-ae30-4f99-a3f1-2a3f3eb2de1a>|<img src= https://github.com/user-attachments/assets/91ae4e88-5f62-4b9e-a1cd-6d8913f01c8f>|
+
+## 📑 Course Materials
 
 - [Chapter 1 - General Terms Related to Knitting Technology](<https://github.com/Faculty-OS/Fabric-Manufacturing/tree/master/Chapters/Chapter%201>)
 - [Chapter 2 - Mechanical Principles of Knitting Technology](<https://github.com/Faculty-OS/Fabric-Manufacturing/tree/master/Chapters/Chapter%202>)
@@ -53,6 +58,21 @@ This collection provides textile engineering students and course instructors wit
 ```bash
 
 git clone https://github.com/Faculty-OS/Fabric-Manufacturing/.git
+
+```
+
+<code>Files Excluded</code> from Version Control 
+``` gitignore
+
+*.docx
+*.pptx
+*.xlsx
+
+Animation/
+Class Test/
+Lab Question/
+Term Question/
+
 ```
 
 ## 📁 Project Structure
