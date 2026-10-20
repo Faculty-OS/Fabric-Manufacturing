@@ -1,9 +1,9 @@
 # Fabric Manufacturing
 
-> Academic repository and study materials for Fabric Manufacturing.
-> Course Title: Fabric Manufacturing
-> Course Code: FE 253-0723, FE 254-0723
-> Credit: 3.0
+Academic repository and study materials for Fabric Manufacturing <br>
+> Course Title: Fabric Manufacturing <br>
+> Course Code: FE 253-0723, FE 254-0723 <br>
+> Credit: 3.0 <br>
 > Part: B
 
 | [![develop-with-arnob](<https://img.shields.io/badge/Maintained%20by-Arnob%20Mahmud-1f425f.svg?style=plastic&logo=visual-studio-code&logoColor=007ACC&labelColor=c3c4d5&color=193507>)](https://github.com/ArnobMahmud/) |
@@ -25,15 +25,15 @@ This collection provides textile engineering students and course instructors wit
 
 ## 📑 Table of Contents
 
-- [Chapter 1 - General Terms Related to Knitting Technology](<https://github.com/Faculty-OS/Fabric-Manufacturing/tree/master/Chapters/Chapter%201%20-%20General%20Terms>)
-- [Chapter 2 - Mechanical Principles of Knitting Technology](<https://github.com/Faculty-OS/Fabric-Manufacturing/tree/master/Chapters/Chapter%202%20-%20Mechanical%20Principles%20of%20Knitting%20Technology>)
-- [Chapter 3 - Knitting Machines](<https://github.com/Faculty-OS/Fabric-Manufacturing/tree/master/Chapters/Chapter%203%20-%20Knitting%20Machine>)
-- [Chapter 4 - Weft Knitted Structures](<https://github.com/Faculty-OS/Fabric-Manufacturing/tree/master/Chapters/Chapter%204%20-%20Weft%20Knitted%20Structure>)
-- [Chapter 5 - Held, Tuck &amp; Miss Loops](<https://github.com/Faculty-OS/Fabric-Manufacturing/tree/master/Chapters/Chapter%205%20-%20Held%2C%20Tuck%2C%20Miss%20Loops>)
-- [Chapter 6 - Quantitative Aptitude](<https://github.com/Faculty-OS/Fabric-Manufacturing/tree/master/Chapters/Chapter%206%20-%20Mathematical%20Problems>)
-- [Chapter 7 - Single Jersey Derivatives](<https://github.com/Faculty-OS/Fabric-Manufacturing/tree/master/Chapters/Chapter%207%20-%20Single%20Jersey%20Derivatives>)
-- [Chapter 8 - Introduction to Warp Knitting](<https://github.com/Faculty-OS/Fabric-Manufacturing/tree/master/Chapters/Chapter%208%20-%20Introduction%20to%20Warp%20Knitting>)
-- [Chapter 9 - Lapping Diagram](<https://github.com/Faculty-OS/Fabric-Manufacturing/tree/master/Chapters/Chapter%209%20-%20Warp%20Knitting%20Lapping%20Diagram>)
+- [Chapter 1 - General Terms Related to Knitting Technology](<https://github.com/Faculty-OS/Fabric-Manufacturing/tree/master/Chapters/Chapter%201>)
+- [Chapter 2 - Mechanical Principles of Knitting Technology](<https://github.com/Faculty-OS/Fabric-Manufacturing/tree/master/Chapters/Chapter%202>)
+- [Chapter 3 - Knitting Machines](<https://github.com/Faculty-OS/Fabric-Manufacturing/tree/master/Chapters/Chapter%203>)
+- [Chapter 4 - Weft Knitted Structures](<https://github.com/Faculty-OS/Fabric-Manufacturing/tree/master/Chapters/Chapter%204>)
+- [Chapter 5 - Held, Tuck &amp; Miss Loops](<https://github.com/Faculty-OS/Fabric-Manufacturing/tree/master/Chapters/Chapter%205>)
+- [Chapter 6 - Quantitative Aptitude](<https://github.com/Faculty-OS/Fabric-Manufacturing/tree/master/Chapters/Chapter%206>)
+- [Chapter 7 - Single Jersey Derivatives](<https://github.com/Faculty-OS/Fabric-Manufacturing/tree/master/Chapters/Chapter%207>)
+- [Chapter 8 - Introduction to Warp Knitting](<https://github.com/Faculty-OS/Fabric-Manufacturing/tree/master/Chapters/Chapter%208>)
+- [Chapter 9 - Lapping Diagram](<https://github.com/Faculty-OS/Fabric-Manufacturing/tree/master/Chapters/Chapter%209>)
 
 ## ✨ Key Features
 
